@@ -14,4 +14,4 @@
 
 # 联系我们
 
-https://t.me/LuckyBullBotGroup
+https://t.me/LuckyBullBot07
